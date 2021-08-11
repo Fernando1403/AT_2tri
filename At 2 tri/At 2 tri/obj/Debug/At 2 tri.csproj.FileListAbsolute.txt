@@ -1,0 +1,10 @@
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\bin\Debug\At 2 tri.exe.config
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\bin\Debug\At 2 tri.exe
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\bin\Debug\At 2 tri.pdb
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\obj\Debug\At 2 tri.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\obj\Debug\At_2_tri.Form1.resources
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\obj\Debug\At_2_tri.Properties.Resources.resources
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\obj\Debug\At 2 tri.csproj.GenerateResource.cache
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\obj\Debug\At 2 tri.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\obj\Debug\At 2 tri.exe
+C:\Users\logonrmlocal\Documents\Visual Studio 2019\At 2 tri\At 2 tri\obj\Debug\At 2 tri.pdb
